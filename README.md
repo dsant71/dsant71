@@ -1,5 +1,5 @@
 ## Olá! me chamo Davi Santana.
-### Um futuro desenvolvedor em construção, atualmente, no primeiro semestre de ADS. <br> No momento também estou aprendendo sobre linguagens de marcação, Git e lógica de programação
+### Um desenvolvedor em construção, atualmente, no primeiro semestre de ADS. <br> No momento também estou aprendendo sobre linguagens de marcação, Git e lógica de programação
 
 #### Meus futuros projetos serão disponibilizados nesse perfil 
 #### Se quiser conversar sobre algum projeto 📫 **davzn15@gmail.com**
