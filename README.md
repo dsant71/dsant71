@@ -1,6 +1,9 @@
 ## Olá! me chamo Davi Santana.
 ### Um desenvolvedor em construção, atualmente, no primeiro semestre de ADS. <br> No momento também estou aprendendo sobre linguagens de marcação, Git e lógica de programação
 
+- ###  Jovem aprendiz na Renova Soluções em Tecnologia 💻💼
+- ###  Cursando ADS na Universidade Católica do Salvador (UCSAL) 📘🖋️
+
 #### Meus futuros projetos serão disponibilizados nesse perfil 
 #### Se quiser conversar sobre algum projeto 📫 **davzn15@gmail.com**
 <div> 
