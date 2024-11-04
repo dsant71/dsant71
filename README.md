@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#008080&height=120&section=header"/>
+
 ## Olá! me chamo Davi Santana.
 ### Um desenvolvedor em construção, atualmente, no primeiro semestre de ADS. <br> No momento também estou aprendendo sobre linguagens de marcação, Git e lógica de programação
 
