@@ -9,11 +9,12 @@
 -   **Jovem aprendiz na Renova Soluções em Tecnologia 💻💼**
 -   **Cursando ADS na Universidade Católica do Salvador (UCSAL) 📘🖋️**
 
-#### Meus futuros projetos serão disponibilizados nesse perfil 
-#### Se quiser conversar sobre algum projeto 📫 **davzn15@gmail.com**
+### Meus futuros projetos serão disponibilizados nesse perfil 
+### Se quiser conversar sobre algum projeto 📫 **davzn15@gmail.com**
 <div>
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=dsant71&show_icons=true&theme=github_dark&locale=en" alt="mau-me" />
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsant71&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsant71&show_icons=true&bg_color=0d1117&title_color=3a47f5&icon_color=3a47f5" alt="GitHub Stats" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsant71&show_icons=true&bg_color=0d1117&title_color=3a47f5&icon_color=3a47f5&layout=compact" alt="Linguagens" />
+
 </div>
 <h3 align="left">Minhas Redes Sociais:</h3>
 <p align="left">
