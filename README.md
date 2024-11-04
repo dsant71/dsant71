@@ -17,7 +17,11 @@
 
 </div>
 <h3 align="left">Minhas Redes Sociais:</h3>
-<p align="left">
-<div><a href="http://instagram.com/dsant_71/"><img style="margin:5px" height= "30em" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"></a></div>
+<a href="https://www.instagram.com/dsant_71" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" style="margin: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in//davi-santana-387872336/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="40" style="margin: 5px;" />
+</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a47f5&height=120&section=footer"/>
