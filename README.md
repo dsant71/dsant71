@@ -26,3 +26,5 @@
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a47f5&height=120&section=footer"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dsant71&bg_color=2325296&color=00bfbf&line=07e9a5&point=29195e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
