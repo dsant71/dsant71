@@ -12,9 +12,10 @@
 ### Meus futuros projetos serão disponibilizados nesse perfil 
 ### Se quiser conversar sobre algum projeto 📫 **davzn15@gmail.com**
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsant71&show_icons=true&bg_color=0d1117&title_color=3a47f5&icon_color=3a47f5" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsant71&show_icons=true&bg_color=0d1117&title_color=3a47f5&icon_color=3a47f5&layout=compact" alt="Linguagens" />
-
+   <div>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=dsant71&show_icons=true&theme=github_dark&locale=en" alt="Viniciusx0800" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsant71&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Viniciusx0800" />
+</div>
 </div>
 <h3 align="left">Minhas Redes Sociais:</h3>
 <a href="https://www.instagram.com/dsant_71" target="_blank">
