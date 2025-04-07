@@ -4,7 +4,7 @@
 
 
 ## Olá! me chamo Davi Santana.
-### Desenvolvedor em construção, atualmente, no segundo semestre de ADS. <br> No momento também estou aprendendo DOM, JavaScript, MongoDB e programação orientada ao objeto (com Java). Possuo conhecimento em Git, lógica de programação (Java) e também em HTML e CSS.  
+### Desenvolvedor em construção, atualmente, no segundo semestre de ADS. <br> No momento, estou aprendendo DOM, JavaScript, MongoDB e programação orientada ao objeto (com Java). Possuo conhecimento em Git, lógica de programação (Java) e também em HTML e CSS.  
 
 -   **Jovem aprendiz na Renova Soluções em Tecnologia 💻💼**
 -   **Cursando ADS na Universidade Católica do Salvador (UCSAL) 📘🖋️**
