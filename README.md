@@ -4,13 +4,13 @@
 
 
 ## Olá! me chamo Davi Santana.
-### Um desenvolvedor em construção, atualmente, no primeiro semestre de ADS. <br> No momento também estou aprendendo sobre linguagens de marcação, Git e lógica de programação
+### Desenvolvedor em construção, atualmente, no segundo semestre de ADS. <br> No momento também estou aprendendo DOM, JavaScript, MongoDB e programação orientada ao objeto (com Java). Possuo conhecimento em Git, lógica de programação (Java) e também em HTML e CSS.  
 
 -   **Jovem aprendiz na Renova Soluções em Tecnologia 💻💼**
 -   **Cursando ADS na Universidade Católica do Salvador (UCSAL) 📘🖋️**
 
 ### Meus futuros projetos serão disponibilizados nesse perfil 
-### Se quiser conversar sobre algum projeto 📫 **davzn15@gmail.com**
+### Caso queira conversar sobre algum projeto, entre em contato via e-mail 📫 **davzn15@gmail.com**
 <div>
    <div>
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=dsant71&show_icons=true&theme=github_dark&locale=en" alt="dsant71" />
@@ -18,7 +18,7 @@
 </div>
 </div>
 <h3 align="left">Minhas Redes Sociais:</h3>
-<a href="https://www.instagram.com/dsant_71" target="_blank">
+<a href="https://www.instagram.com/_santaanadavi" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" style="margin: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in//davi-santana-387872336/" target="_blank">
